@@ -5,3 +5,5 @@ The Calculator works fine, not the 8ball function at this time.
 I put the line for future improvement in the end of 'script.js'
 
 Hope you enjoy it !
+
+John Wish
